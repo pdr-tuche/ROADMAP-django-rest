@@ -47,3 +47,7 @@
 
 16. rodar o servidor.
     `python manage.py runserver`
+
+
+
+**se der erro, [StackOverflow](https://stackoverflow.com/) lhe aguarda =)**
